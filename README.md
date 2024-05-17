@@ -1,10 +1,6 @@
-# Hi visitor ! I'm ThaaoBlues, a french student at INSA Toulouse school ;)
-## You can check my pinned repos !
-(shorcuts)
+# Hi visitor ! I'm ThaaoBlues, a french student at the National Institute of Applied Science of Toulouse. 
+I have old projects on my account, but newer ones are coming as I am soon out of prépa years 🙌
 
-- [CopyPasta](https://github.com/copypastaofficial/copypasta)
-- [Blue](https://github.com/thaaoblues/Blue)
-- [Pmanager](https://github.com/thaaoblues/pmanager)
 
 <!---
 ThaaoBlues/ThaaoBlues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
